@@ -28,31 +28,31 @@ I built this project to solve two critical problems in enterprise IT: (1) the in
 
 ## Screenshots
 1. **VirtualBox Network Configuration**  
-   ![Network Setup](screenshots/vbox_network.png)  
+   ![Network Setup](vbox_network.png)  
    *Dual adapter configuration (NAT + Internal)*
 
-2. **AD DS Role Installation**  
-   ![AD Installation](screenshots/ad_install.png)  
-   *Installing Active Directory Domain Services*
+2. **OU Structure & Admin Creation**  
+   ![ADMINS OU](admins_ou.png)  
+   *Organizational Unit design with _ADMINS group and custom admin user*
 
 3. **PowerShell Automation**  
-   ![PS Script](screenshots/powershell_script.png)  
+   ![PS Script](powershell_script.png)  
    *Bulk user creation script output*
 
 4. **DHCP Scope Configuration**  
-   ![DHCP Setup](screenshots/dhcp_scope.png)  
+   ![DHCP Setup](dhcp_scope.png)  
    *172.16.0.100/24 scope with gateway*
 
 5. **Client Domain Join**  
-   ![Joined Client](screenshots/client_join.png)  
+   ![Joined Client](client_join.png)  
    *CLIENT1 successfully joined to domain*
 
 6. **User Login Test**  
-   ![Login Test](screenshots/user_login.png)  
+   ![Login Test](user_login.png)  
    *Domain user authentication*
 
 7. **AD Users & Computers**  
-   ![ADUC View](screenshots/ad_users.png)  
+   ![ADUC View](ad_users.png)  
    *1,000+ users in OU structure*
 
 ## Installation
